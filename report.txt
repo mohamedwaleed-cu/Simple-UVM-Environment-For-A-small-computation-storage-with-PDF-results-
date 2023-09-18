@@ -1,0 +1,1 @@
+Both outputs are identical

@@ -1,0 +1,12 @@
+module Memory {
+input clk,
+input enable,
+input rst,
+input [31:0] wdata,
+output [31:0] rdata } ;
+
+
+
+reg [31:0] mem [3:0];
+
+
